@@ -11,11 +11,20 @@ public class AppTest
     @Test
     public void daneDoPolaczeniaSie()
     {
+        //i21c YET ANOTHER GIT SETUP
+        // touch .gitignore
+        // echo 'heyheroku/yehheroku.iml' > .gitignore
+        // git status
+        // echo 'heyheroku/.idea/
+        // echo 'heyheroku/.idea/' >> .gitignore
+        // echo 'heyheroku/target/' >> .gitignore
+        // git status
+        // git pull origin master
+        // git push origin master
+
         //i21c HEROKU HELLO
         // https://devcenter.heroku.com/articles/getting-started-with-java
         //switching to C:\meta\data\git\itm2 for now
-
-
 
         //i21c CREDENTIALS
         // github.com d.boberek@gmail.com:i#
@@ -41,6 +50,9 @@ public class AppTest
         //git config --global core.editor "'C:/meta/programs/notepad++/notepad++.exe' -multiInst -nosession"
         //git config --list
         //s: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+
+
 
         assertTrue( true );
     }
